@@ -179,6 +179,7 @@ class _SignUpPageState extends State<SignUpPage> {
                         ],),
                       borderRadius: BorderRadius.circular(100),
                     ),
+                    padding:EdgeInsets.symmetric(horizontal: 50),
                     child: Center(
                       child: Center(
                         child: TextField(
@@ -211,6 +212,7 @@ class _SignUpPageState extends State<SignUpPage> {
                         ],),
                       borderRadius: BorderRadius.circular(100),
                     ),
+                    padding:EdgeInsets.symmetric(horizontal: 50),
                     child: Center(
                       child: TextField(
                         style: TextStyle(color: Colors.white),
@@ -240,6 +242,7 @@ class _SignUpPageState extends State<SignUpPage> {
                         ],),
                       borderRadius: BorderRadius.circular(100),
                     ),
+                    padding:EdgeInsets.symmetric(horizontal: 50),
                     child: Center(
                       child: TextField(
                         style: TextStyle(color: Colors.white),
